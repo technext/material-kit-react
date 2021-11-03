@@ -1,12 +1,15 @@
 {
   "name": "react-material-dashboard",
+  "homepage": "https://technext.github.io/brainalytica/",
   "version": "0.2.0",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -29,6 +32,7 @@
     "@material-ui/styles": "^4.0.0-beta.1",
     "chart.js": "^2.7.3",
     "classnames": "^2.2.6",
+    "gh-pages": "^3.2.3",
     "history": "^4.7.2",
     "moment": "^2.24.0",
     "node-sass": "^4.11.0",
