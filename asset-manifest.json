@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/brainalytica/static/css/main.dcea1374.chunk.css",
-    "main.js": "/brainalytica/static/js/main.9d3520e2.chunk.js",
-    "main.js.map": "/brainalytica/static/js/main.9d3520e2.chunk.js.map",
-    "runtime~main.js": "/brainalytica/static/js/runtime~main.edeb2871.js",
-    "runtime~main.js.map": "/brainalytica/static/js/runtime~main.edeb2871.js.map",
-    "static/css/2.18fb2ca0.chunk.css": "/brainalytica/static/css/2.18fb2ca0.chunk.css",
-    "static/js/2.f4a1140c.chunk.js": "/brainalytica/static/js/2.f4a1140c.chunk.js",
-    "static/js/2.f4a1140c.chunk.js.map": "/brainalytica/static/js/2.f4a1140c.chunk.js.map",
-    "index.html": "/brainalytica/index.html",
-    "precache-manifest.45144943efeab01687dff5bb90d593be.js": "/brainalytica/precache-manifest.45144943efeab01687dff5bb90d593be.js",
-    "service-worker.js": "/brainalytica/service-worker.js",
-    "static/css/2.18fb2ca0.chunk.css.map": "/brainalytica/static/css/2.18fb2ca0.chunk.css.map",
-    "static/css/main.dcea1374.chunk.css.map": "/brainalytica/static/css/main.dcea1374.chunk.css.map"
-  }
+    "main.js": "/material-kit-react/static/js/main.8098353a.chunk.js",
+    "main.js.map": "/material-kit-react/static/js/main.8098353a.chunk.js.map",
+    "runtime-main.js": "/material-kit-react/static/js/runtime-main.d4f69785.js",
+    "runtime-main.js.map": "/material-kit-react/static/js/runtime-main.d4f69785.js.map",
+    "static/css/2.847a128f.chunk.css": "/material-kit-react/static/css/2.847a128f.chunk.css",
+    "static/js/2.3a307ab6.chunk.js": "/material-kit-react/static/js/2.3a307ab6.chunk.js",
+    "static/js/2.3a307ab6.chunk.js.map": "/material-kit-react/static/js/2.3a307ab6.chunk.js.map",
+    "index.html": "/material-kit-react/index.html",
+    "static/css/2.847a128f.chunk.css.map": "/material-kit-react/static/css/2.847a128f.chunk.css.map",
+    "static/js/2.3a307ab6.chunk.js.LICENSE.txt": "/material-kit-react/static/js/2.3a307ab6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4f69785.js",
+    "static/css/2.847a128f.chunk.css",
+    "static/js/2.3a307ab6.chunk.js",
+    "static/js/main.8098353a.chunk.js"
+  ]
 }
