@@ -1,15 +1,18 @@
 {
   "name": "react-material-dashboard",
-  "homepage": "https://technext.github.io/brainalytica/",
-  "version": "0.2.0",
-  "private": true,
+  "author": "DeviasIO",
+  "licence": "MIT",
+  "version": "1.0.0",
+  "private": false,
   "scripts": {
+    "eslint": "eslint ./src",
+    "eslint-fix": "eslint --fix ./src",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "lint": "eslint ./",
+    "lint-fix": "eslint ./ --fix"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -27,30 +30,30 @@
     ]
   },
   "dependencies": {
-    "@material-ui/core": "^4.0.0-beta.1",
-    "@material-ui/icons": "^4.0.0-beta.0",
-    "@material-ui/styles": "^4.0.0-beta.1",
-    "chart.js": "^2.7.3",
-    "classnames": "^2.2.6",
-    "gh-pages": "^3.2.3",
-    "history": "^4.7.2",
-    "moment": "^2.24.0",
-    "node-sass": "^4.11.0",
-    "prop-types": "^15.7.1",
-    "react": "^16.8.6",
-    "react-chartjs-2": "^2.7.4",
-    "react-dom": "^16.8.6",
-    "react-perfect-scrollbar": "^1.4.4",
-    "react-router-dom": "^5.0.0",
-    "react-scripts": "3.0.1",
-    "recompose": "^0.30.0",
-    "underscore": "^1.9.1",
-    "validate.js": "^0.12.0"
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@material-ui/core": "^5.0.0-beta.5",
+    "@material-ui/icons": "^5.0.0-beta.5",
+    "@material-ui/styles": "^5.0.0-beta.5",
+    "chart.js": "^3.5.1",
+    "formik": "^2.1.5",
+    "history": "^5.0.0",
+    "moment": "^2.27.0",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-chartjs-2": "^3.0.4",
+    "react-dom": "^17.0.2",
+    "react-feather": "^2.0.8",
+    "react-helmet": "^6.1.0",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-router": "^6.0.0-beta.0",
+    "react-router-dom": "^6.0.0-beta.0",
+    "react-scripts": "^4.0.3",
+    "uuid": "^8.3.0",
+    "yup": "^0.32.9"
   },
   "devDependencies": {
-    "eslint-plugin-prettier": "^3.0.1",
-    "eslint-plugin-react": "^7.12.4",
-    "prettier-eslint": "^8.8.2",
-    "prettier-eslint-cli": "^4.7.1"
+    "eslint-config-airbnb": "^18.2.1"
   }
 }
