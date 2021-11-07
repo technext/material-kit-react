@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/material-kit-react/static/js/main.8098353a.chunk.js",
-    "main.js.map": "/material-kit-react/static/js/main.8098353a.chunk.js.map",
-    "runtime-main.js": "/material-kit-react/static/js/runtime-main.d4f69785.js",
-    "runtime-main.js.map": "/material-kit-react/static/js/runtime-main.d4f69785.js.map",
-    "static/css/2.847a128f.chunk.css": "/material-kit-react/static/css/2.847a128f.chunk.css",
-    "static/js/2.3a307ab6.chunk.js": "/material-kit-react/static/js/2.3a307ab6.chunk.js",
-    "static/js/2.3a307ab6.chunk.js.map": "/material-kit-react/static/js/2.3a307ab6.chunk.js.map",
-    "index.html": "/material-kit-react/index.html",
-    "static/css/2.847a128f.chunk.css.map": "/material-kit-react/static/css/2.847a128f.chunk.css.map",
-    "static/js/2.3a307ab6.chunk.js.LICENSE.txt": "/material-kit-react/static/js/2.3a307ab6.chunk.js.LICENSE.txt"
+    "main.js": "./static/js/main.8098353a.chunk.js",
+    "main.js.map": "./static/js/main.8098353a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7888cb0e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7888cb0e.js.map",
+    "static/css/2.847a128f.chunk.css": "./static/css/2.847a128f.chunk.css",
+    "static/js/2.3a307ab6.chunk.js": "./static/js/2.3a307ab6.chunk.js",
+    "static/js/2.3a307ab6.chunk.js.map": "./static/js/2.3a307ab6.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.847a128f.chunk.css.map": "./static/css/2.847a128f.chunk.css.map",
+    "static/js/2.3a307ab6.chunk.js.LICENSE.txt": "./static/js/2.3a307ab6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4f69785.js",
+    "static/js/runtime-main.7888cb0e.js",
     "static/css/2.847a128f.chunk.css",
     "static/js/2.3a307ab6.chunk.js",
     "static/js/main.8098353a.chunk.js"
